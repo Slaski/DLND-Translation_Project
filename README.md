@@ -2,7 +2,7 @@
 
 ## Project 4 - Translation Project
 
-This is the fourth project from the Deep Learning Nanodegre from [Udacity](https://www.udacity.com/). In this project we have to train a neural network machine translation to translate sentenced from English to French.
+This is the fourth project from the Deep Learning Nanodegre from [Udacity](https://www.udacity.com/). In this project we have to train a neural network machine translation to translate sentences from English to French.
 
 ## Dependencies
 
